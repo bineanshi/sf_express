@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{顺丰API}
   spec.description   = %q{顺丰API}
-  spec.homepage      = "https://github.com/bineanshi/sf-express.git"
+  spec.homepage      = "https://github.com/bineanshi/sf_express.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
